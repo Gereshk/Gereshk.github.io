@@ -6,7 +6,7 @@ order: 4
 
 Hello,
 I am a IT professional who is working my way towards a career in Cyber Security.  More specifically as a Penetration Tester.  I have always had a curiosity when it came to computers and security.  
-Here is my current working Resume [Jacob_Thompson_Pentest_Resume.pdf]:{{gereshk.github.io}}/download/Jacob_Thompson_Pentest_Resume.pdf
+Here is my current working Resume [Jacob_Thompson_Pentest_Resume.pdf]({{gereshk.github.io}}/download/Jacob_Thompson_Pentest_Resume.pdf)
 
 ## Education 
 - Associate Degree in Information Technology
