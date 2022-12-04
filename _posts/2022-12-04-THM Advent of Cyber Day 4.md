@@ -62,7 +62,7 @@ Form the scan we can see that it is running **Apache** on port 80
 
 From the scan we can see that **SSH** is running on port 22
 
-With the first two questions answered we move on to accessing the samba service we do that by opening our file explorer and connecting to the address
+With the first two questions answered we move on, following the instructions, to accessing the samba service we do that by opening our file explorer and connecting to the address
 
 ```bash
 smb://Ipaddressfortargetmachine
