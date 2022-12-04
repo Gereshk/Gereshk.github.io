@@ -20,10 +20,9 @@ The first thing I like to do is just a ping to make sure the box you are "attack
 
 Once I verified that a ping was successfully I followed along in the instructions.  The first instruciton I read and completed was a SYN scan. To complete a SYN Scan the -sS flag must be in the command.  Please note the IP address should be of your target machine.
 
-'''console
+```bash
 nmap -sS Ipaddressfortargetmachine
-
-'''
+```
 
 The results form this were
 
@@ -43,10 +42,9 @@ None of these gave the version or name of the service running on that port so we
 
 This time we will combine some NMAP flags into one command 
 
-'''console
+```bash
 nmap -sS -sV Ipaddressfortargetmachine
-
-'''
+```
 
 This will get NMAP to try and determing the Version of the services running on the open ports 
 
@@ -66,11 +64,10 @@ From the scan we can see that **SSH** is running on port 22
 
 With the first two questions answered we move on to accessing the samba service we do that by opening our file explorer and connecting to the address
 
-'''
-
+```bash
 smb://Ipaddressfortargetmachine
+```
 
-'''
 we get this connection
 
 ![samba](/assets/Advent_of_Cyber_day_4/samba.png)
