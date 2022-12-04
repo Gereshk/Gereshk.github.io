@@ -21,6 +21,7 @@ The first thing I like to do is just a ping to make sure the box you are "attack
 Once I verified that a ping was successfully I followed along in the instructions.  The first instruciton I read and completed was a SYN scan. To complete a SYN Scan the -sS flag must be in the command.  Please note the IP address should be of your target machine.
 
 '''console
+
 nmap -sS Ipaddressfortargetmachine
 
 '''
@@ -44,6 +45,7 @@ None of these gave the version or name of the service running on that port so we
 This time we will combine some NMAP flags into one command 
 
 '''console
+
 nmap -sS -sV Ipaddressfortargetmachine
 
 '''
