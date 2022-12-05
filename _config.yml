@@ -92,9 +92,9 @@ comments:
   disqus:
     shortname:   gereshkblog.disqus.com # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
-  utterances:
-    repo:         Gereshk/gereshk.github.io
-    issue_term:   # < url | pathname | title | ...>
+  #utterances:
+  #  repo:         Gereshk/gereshk.github.io
+   # issue_term:   pathname
   # Giscus options › https://giscus.app
   # giscus:
    # repo: "Gereshk/gereshk.github.io"
