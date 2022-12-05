@@ -2,7 +2,7 @@
 title: Advent Of Cyber 2022 Day 4
 date: 2022-12-04 14.44.00 +/-TTTT
 categories: [Try Hack Me, Advent OF Cyber 2022]
-tags: [tryhackme,try hack me, hacking, advent of cyber]     # TAG names should always be lowercase
+tags: [tryhackme,try hack me, hacking, advent of cyber, advent of cyber 2022 advent of cyber day 4]     # TAG names should always be lowercase
 ---
 # Scanning Through The Snow
 
@@ -38,7 +38,7 @@ I found four ports open and they are as follows
 - Port 445
     + Used for Microsoft-ds
 
-None of these gave the version or name of the service running on that port so we had to do some more scanning.
+These are all the default for the services that are running on them.  After awhile you will learn which port number is normally associated with which service.  None of these gave the version or name of the service running on that port so we had to do some more scanning.
 
 This time we will combine some NMAP flags into one command 
 
@@ -46,11 +46,12 @@ This time we will combine some NMAP flags into one command
 nmap -sS -sV Ipaddressfortargetmachine
 ```
 
-This will get NMAP to try and determing the Version of the services running on the open ports 
+As we learned with the first scan the -sS has NMAP do a SYN scan,  -sV tells NMAP to try to figure out the versions of the services running on each port that is open. 
 
 ![nmapflags](/assets/Advent_of_Cyber_day_4/nmapwithflags.png)
 
 These results will allow us to start answering the questions.
+
 ## Quesiton 1
 
 ![Q1](/assets/Advent_of_Cyber_day_4/Q1.png)
@@ -62,7 +63,7 @@ Form the scan we can see that it is running **Apache** on port 80
 
 From the scan we can see that **SSH** is running on port 22
 
-With the first two questions answered we move on, following the instructions, to accessing the samba service we do that by opening our file explorer and connecting to the address
+With the first two questions answered we move on, following the instructions, to accessing the samba service we do that by opening our file explorer and connecting to the address.  We sould know that samba is available because when we ran the NMAP scan with the -sV flag it returned that samba was running on ports 139 and 445 which are the default ports.
 
 ```bash
 smb://Ipaddressfortargetmachine
