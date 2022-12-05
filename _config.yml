@@ -97,14 +97,14 @@ comments:
     #issue_term:   pathname
   #Giscus options › https://giscus.app
   giscus:
-   repo: https://Gereshk/gereshk.github.io
-    repo_id: R_kgDOIi9y7A
-    category: General
-    category_id: DIC_kwDOIi9y7M4CS7Cp
-    mapping: pathname      
+    repo:              gereshk/gereshk.github.io
+    repo_id:           R_kgDOIi9y7A
+    category:          General
+    category_id:       DIC_kwDOIi9y7M4CS7Cp
+    mapping:           # optional, default to 'pathname'
     input_position:    # optional, default to 'bottom'
-    lang: en
-    reactions_enabled: 1
+    lang:              # optional, default to the value of `site.lang`
+    reactions_enabled: # optional, default to the value of `1`
   
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
