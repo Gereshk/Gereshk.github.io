@@ -15,6 +15,7 @@ Today we take a quick look into brute forcing passwords.  If you have spent any 
  With that lets get into the steps of todays room.
  
  ## Get connected
+ 
  I again used the attack box provided by TryHackMe. You can do the challenge from your own machine but I find it convient for these quick challenges since I am not at home with my VMs when I have been doing them.  I started both the AttackBox and the target machine and waited for them to both come up
  
  ## Brute force the VNC password
@@ -25,6 +26,7 @@ Today we take a quick look into brute forcing passwords.  If you have spent any 
  hydra -P /user/share/wordlists/rockyou.txt vnc://ipaddressoftargert -V -f -t4
  ```
  ### Explination of the flags used in the command
+ 
  As always you can look at the man pages to get an understanding of the flags used but I will explain the ones I used
  - -P 
    + Designate password list
@@ -34,15 +36,19 @@ Today we take a quick look into brute forcing passwords.  If you have spent any 
    + Stops the hydra attack after it gets a correct password
  - -t4
    + Desingnates the number of threads to use for the attack
+  
 ## Results of the scan
+
 After we let the hydra scan run for a while we catach a correct password and the scan stops
 ![hydrascan](/assets/AOCD5/hydra%20scan.png)
 
 ### Question 1
+
 The Hydra scan answers question 1 for us
 ![q1](/assets/AOCD5/q1.png)
 
 ## VNC into the machine
+
 Now that we have the password we can VNC in and take a look around.  You can use whatever VNC client you want to use but Remmina is installed on the machine so we will use that.  Once connected it asks for a password and we give the password found from the brute force attack.
 ![password](/assets/AOCD5/vnc%20/password.png)
 
