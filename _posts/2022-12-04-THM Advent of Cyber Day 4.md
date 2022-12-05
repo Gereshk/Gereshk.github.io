@@ -3,6 +3,7 @@ title: Advent Of Cyber 2022 Day 4
 date: 2022-12-04 14.44.00 +/-TTTT
 categories: [Try Hack Me, Advent OF Cyber 2022]
 tags: [tryhackme,try hack me, hacking, advent of cyber, advent of cyber 2022, advent of cyber day 4]     # TAG names should always be lowercase
+author: 1
 ---
 # **Scanning Through The Snow**
 
