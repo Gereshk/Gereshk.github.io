@@ -95,9 +95,9 @@ comments:
   #utterances:
     #repo:         Gereshk/gereshk.github.io
     #issue_term:   pathname
-  Giscus options › https://giscus.app
+  #Giscus options › https://giscus.app
   giscus:
-   repo: Gereshk/gereshk.github.io
+   repo: https://Gereshk/gereshk.github.io
     repo_id: R_kgDOIi9y7A
     category: General
     category_id: DIC_kwDOIi9y7M4CS7Cp
