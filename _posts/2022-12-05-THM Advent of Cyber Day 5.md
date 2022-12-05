@@ -51,7 +51,7 @@ The Hydra scan answers question 1 for us
 ## VNC into the machine
 
 Now that we have the password we can VNC in and take a look around.  You can use whatever VNC client you want to use but Remmina is installed on the machine so we will use that.  Once connected it asks for a password and we give the password found from the brute force attack.
-![password](/assets/AOCD5/vnc%20/password.png)
+![password](/assets/AOCD5/vnc%20password.png)
 
 And we are in. 
 
