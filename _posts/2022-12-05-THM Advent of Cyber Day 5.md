@@ -13,19 +13,20 @@ author: me
 Today we take a quick look into brute forcing passwords.  If you have spent any time in a training platform you will be familiar with the tools discussed and used.  Today the written instructions were geared towards hydra.  Although in the walk through video Phillip Wylie does make a point to show the use of other tools which I appreciate because it shows that their is usually a few ways to do everything
 
  With that lets get into the steps of todays room.
- 
- ## Get connected
+
+## Get Connected
  
  I again used the attack box provided by TryHackMe. You can do the challenge from your own machine but I find it convient for these quick challenges since I am not at home with my VMs when I have been doing them.  I started both the AttackBox and the target machine and waited for them to both come up
  
- ## Brute force the VNC password
+## Brute force the VNC password
  
  We know from the intial scans that VNC is open. After determining that it does not require a username just a password I start the hydra scan with the following syntax
  
  ```console
  hydra -P /user/share/wordlists/rockyou.txt vnc://ipaddressoftargert -V -f -t4
  ```
- ### Explination of the flags used in the command
+
+### Explination of the flags used in the command
  
  As always you can look at the man pages to get an understanding of the flags used but I will explain the ones I used
  - -P 
