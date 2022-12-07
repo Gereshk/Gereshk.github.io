@@ -13,12 +13,12 @@ author: me
 ## Overall Thoughts
 This was a great intruduction to looking for imformation in a malicous email.  Most people unless in that role would actually know how to do this.  I think it is great we are getting all sorts of different views on different skills to build for ourselves.  Overall had at all if you follow the instructions or the video walk through provided by Cyberseurity Meg
 
-## Step one 
+## Getting Started 
 There are more questions today than on previous days but we should be able to power through them quickly
 
 In this room the box automatically spawns with an image with everything you need to include the email file.  So following the instructions we open up sublime text editor and open the email file 
 
-Mine Sublime automatically opened it in the correct format but the instructions are there if you need to change the format to email header
+My Sublime automatically opened it in the correct format but the instructions are there if you need to change the format to email header
 
 ### Lets start answering questions
 
