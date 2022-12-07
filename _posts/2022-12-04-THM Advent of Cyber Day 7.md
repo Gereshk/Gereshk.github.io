@@ -12,7 +12,7 @@ author: me
 
 ## Overall Thoughts
 
-Cyber chef is a great tool and one of the my first stops when needing to decode a hash.  This room took Cyber Chef a lot deeper and I really enjoyed seeing all the different tools that it has baked right in (Pun Intended).
+Cyber Chef is a great tool and one of the my first stops when needing to decode a hash.  This room took Cyber Chef a lot deeper and I really enjoyed seeing all the different tools that it has baked right in (Pun Intended).
 
 ### The room 
 
