@@ -6,7 +6,7 @@ tags: [tryhackme,try hack me, hacking, advent of cyber, advent of cyber 2022, ad
 author: me
 ---
 
-![day11](/assets/AOCD10/day11.png)
+![day11](/assets/AOCD11/day11.png)
 
 #  Not all Gifts are Nice
 
