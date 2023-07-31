@@ -50,7 +50,7 @@ Again this can be found in the results of the recipe
 
 #### Question 5
 
-![q5](assets/AOCD7/q5.png)
+
 
 Last question is again in the results of the recipe just follow the instructions in the written format or watch the video provided by SecurityZNinja
 
