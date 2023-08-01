@@ -14,7 +14,7 @@ At first, the price of $2999.99 was quite a sticker shock for me. Three thousand
 ## What is included 
 The PNPT training bundle offered lifetime access to various TCM Security courses, such as Practical Ethical Hacking, Windows Privilege Escalation, Linux Privilege Escalation, Open-Source Intelligence (OSINT), External Pentest Playbook, and PNPT Live Training VOD. Additionally, the course provided an exam attempt with a free retake if needed, a lab environment, and a special Discord group for my cohort peers. Furthermore, every Friday, we had an 8-hour class hosted by the TCM Security team, primarily led by Heath, although other instructors also participated.
 
-# The live Classes
+# The Live Classes
 To be completely honest, if you've already been studying the courses and putting in the work, the live classes might not offer much new information. The content covered during the live classes was quite similar to what you would find in the regular courses. However, the real value of these live sessions lay in the opportunity to interact with the instructors directly. This interaction allowed me to have topics explained in greater detail and have my questions answered, enhancing my understanding of the material. Heath, the main instructor, was particularly thoughtful in his approach, meeting each participant at their level of knowledge and offering assistance accordingly. Joe and Zach were always available to address career-related queries, while Alex provided excellent answers to Web/AppSec questions.
 
 # The Labs
