@@ -14,7 +14,7 @@ Here is my current working Resume [My Working Resume]({{gereshk.github.io}}/down
 
 
 ## Current Certifications
--Practical Junior Penetration Tester (PJPT)
+- Practical Junior Penetration Tester (PJPT)
 - ITIL V4
 - LPI Linux Essentials
 - CompTIA Secure Infrastructure Specialist
@@ -36,5 +36,5 @@ Here is my current working Resume [My Working Resume]({{gereshk.github.io}}/down
 - Certified Cloud Security Professional (CCSP)
 - Offensive Security Certified Professional (OSCP)
 ## Certifications that I am interested in studing for 
-- EJPT 
 - PNPT
+- EJPT
