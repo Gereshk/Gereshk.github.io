@@ -20,10 +20,10 @@ timezone:
 
 title: Gereshk # the main title
 
-tagline: A place for my CTF Write-ups # it will display as the sub-title
+tagline: A place for my CTF Write-ups and for my blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Penetration testing Write-ups and blog
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://gereshk.github.io'
