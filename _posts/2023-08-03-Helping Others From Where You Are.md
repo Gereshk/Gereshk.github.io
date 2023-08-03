@@ -13,7 +13,7 @@ To my astonishment, my post received an overwhelming response, garnering more th
 
 This experience led me to ponder the theme of this story: "Helping People from Where You Are." Despite not considering myself an authority in cyber security or pentesting, I possess a genuine passion for the field and actively seek to transition my career in that direction. As a result of my LinkedIn post, I received numerous connection requests and direct messages, with people offering congratulations and seeking my advice.
 
-Among those who reached out was a person I'll refer to as "Psuedo." Psuedo messaged me on the main discord, inquiring about my study plan and the PJPT exam. I did my best to answer his questions, and our conversation extended beyond that. We talked about his daily routines, aspirations, and struggles, which made me realize that, like me, he had a genuine passion for hacking and cybersecurity.
+Among those who reached out was a person I'll refer to as "Psuedo." Psuedo messaged me on the main discord I hang out in, inquiring about my study plan and the PJPT exam. I did my best to answer his questions, and our conversation extended beyond that. We talked about his daily routines, aspirations, and struggles, which made me realize that, like me, he had a genuine passion for hacking and cybersecurity.
 
 Psuedo later sought my assistance with a challenging problem from his course, not seeking a direct answer but rather my approach to the issue. I listened carefully, asking thought-provoking questions that encouraged him to think critically. He grasped the opportunity and successfully solved the problem on his own, fostering his hacking skills and mindset with just a gentle nudge.
 
