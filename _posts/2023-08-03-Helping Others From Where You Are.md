@@ -7,6 +7,9 @@ author: me
 --- 
 
 # Helping Others From Where you are
+
+## "The expert in anything was once a beginner." - Helen Hayes
+
 Today, I want to share a story about the power of helping others, even when you may not consider yourself an expert. About a month ago, I achieved a significant milestone in my journey towards becoming a cyber security expert by passing the PJPT Certification from TCM Security. Overflowing with excitement, I decided to share this achievement on LinkedIn, not realizing the profound impact it would have.
 
 To my astonishment, my post received an overwhelming response, garnering more than 10,000 impressions, far beyond anything I had experienced before. However, I quickly acknowledged that this success wasn't solely due to my efforts; it was the result of the support and encouragement from those I tagged and the people who generously shared my post.
