@@ -1,5 +1,5 @@
 ---
-title: My Experience with TCM Security PNPT accelerated Cohort
+title: Helping Others From Where You Are
 date: 2023-07-31 14.44.00 +/-TTTT
 categories: [Classes, Certifications]
 tags: [pnpt ,tcm, hacking, red team, penetration tester, practical network penetration tester]     # TAG names should always be lowercase
